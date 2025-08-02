@@ -1,0 +1,29 @@
+{
+  "name": "my-portfolio-website",
+  "version": "1.0.0",
+  "main": "script.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dancun48/my-portfolio-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dancun48/my-portfolio-website/issues"
+  },
+  "homepage": "https://github.com/dancun48/my-portfolio-website#readme",
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^4.1.11"
+  },
+  "dependencies": {
+    "nodejs": "^0.0.0"
+  }
+}
